@@ -1,3 +1,3 @@
 # BigDataAnalytics_SP3
-Small Project US Wildfires
-Created with Kaggle Data Set located at: https://www.kaggle.com/datasets/firecastrl/us-wildfire-dataset
+Small Project Oral Cancer diagnosis
+Data set obtained from https://www.kaggle.com/datasets/ankushpanday2/oral-cancer-prediction-dataset
